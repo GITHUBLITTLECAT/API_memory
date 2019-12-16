@@ -41,5 +41,5 @@ Epic|智能毕业纪念册小程序
 * 输出：判断用户是否在指定的打卡区域
 
 ## 产品框架图
-！[产品框架图](https://upload-images.jianshu.io/upload_images/9455351-aac8d7b6d233dc60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![产品框架图](https://upload-images.jianshu.io/upload_images/9455351-aac8d7b6d233dc60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
