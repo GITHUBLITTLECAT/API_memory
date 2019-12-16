@@ -30,7 +30,7 @@ Epic|智能毕业纪念册小程序
 ### 需求优先级
 
 用户|使用场景|用户需求|重要程度
-  ----  | ----  |  ----  
+---|---|---|---|
 毕业生|在学校拍照纪念照|想要分享自己在学校特色建筑毕业纪念照片给微信好友|重要
 毕业生|浏览朋友圈|想要观看其他同学的毕业纪念照片|次重要
 
@@ -41,5 +41,5 @@ Epic|智能毕业纪念册小程序
 * 输出：判断用户是否在指定的打卡区域
 
 ## 产品框架图
-[产品框架图](https://upload-images.jianshu.io/upload_images/9455351-aac8d7b6d233dc60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+！[产品框架图](https://upload-images.jianshu.io/upload_images/9455351-aac8d7b6d233dc60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
